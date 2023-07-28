@@ -1,4 +1,4 @@
-MIS3.rts
+MIS3
 =====
 
 Test2
