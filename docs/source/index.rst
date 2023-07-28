@@ -1,4 +1,4 @@
-Hilfetest Version 439 vom Testbranch
+Hilfetest
 ===================================
 
 **Hilfetest**
