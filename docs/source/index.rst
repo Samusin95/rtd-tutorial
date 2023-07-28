@@ -14,6 +14,7 @@ Contents
 
 .. toctree::
 
+   Home <self>
    JournalOptionen
    Glossary of Terms
    MIS2
