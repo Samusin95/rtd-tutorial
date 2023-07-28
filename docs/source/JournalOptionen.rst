@@ -5,7 +5,7 @@ Journal Optionen
 
 ermöglicht die Zuordnung der Priorität niedrig, normal oder hoch. Diese kann in der Journalliste dargestellt oder im erweiterten Filter verwendet werden.
 
-Vertraulichkeit:
+Vertraulichkeit
 ----
 
 Sie können eine Vertraulichkeitsstufe für Ihre E-Mails/Journale festlegen, damit die Empfänger Wissen über Ihre Absichten beim Senden einer Nachricht erhalten.
