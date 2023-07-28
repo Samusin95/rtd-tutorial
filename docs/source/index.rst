@@ -17,3 +17,4 @@ Contents
    JournalOptionen
    Glossary of Terms
    MIS2
+   MIS3
