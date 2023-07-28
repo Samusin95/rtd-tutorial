@@ -1,4 +1,4 @@
-Hilfetest Version 439
+Hilfetest
 ===================================
 
 **Hilfetest**
